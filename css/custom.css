@@ -1,0 +1,28 @@
+/**
+Custom CSS
+ */
+/**
+Front Page
+ */
+.overlay-filter {
+  background-color: #000000;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  opacity: 0.5;
+}
+
+.typewrite {
+  color: #f5f5f5;
+}
+
+.slider-cta {
+  position: absolute;
+  top: 15%;
+  width: 80%;
+  margin: 0 0 0 3em;
+  z-index: 2;
+}
+
+/*# sourceMappingURL=custom.css.map */
